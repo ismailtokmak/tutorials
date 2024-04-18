@@ -93,7 +93,7 @@
         <mysql.version>8.0.13</mysql.version>
         <mariaDB4j.version>2.2.3</mariaDB4j.version>
         <assertj-core.version>3.8.0</assertj-core.version>
-        <spring-boot.version>2.1.7.RELEASE</spring-boot.version>
+        <spring-boot.version>3.1.11</spring-boot.version>
     </properties>
 
 </project>
