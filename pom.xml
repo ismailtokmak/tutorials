@@ -258,7 +258,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -277,7 +277,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -1399,7 +1399,7 @@
         <log4j.version>1.2.17</log4j.version>
         <esapi.version>2.2.2.0</esapi.version>
         <jmh-core.version>1.28</jmh-core.version>
-        <jmh-generator.version>1.28</jmh-generator.version>
+        <jmh-generator.version>1.37</jmh-generator.version>
         <maven-failsafe-plugin.version>2.21.0</maven-failsafe-plugin.version>
         <commons-io.version>2.8.0</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
