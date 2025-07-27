@@ -145,7 +145,7 @@
         <commons-net.version>3.6</commons-net.version>
         <assertj.version>3.6.2</assertj.version>
         <renjin.version>RELEASE</renjin.version>
-        <rcaller.version>3.0</rcaller.version>
+        <rcaller.version>4.0.0</rcaller.version>
         <rserve.version>1.8.1</rserve.version>
         <commons-collections4.version>4.4</commons-collections4.version>
         <libphonenumber.version>8.12.9</libphonenumber.version>
